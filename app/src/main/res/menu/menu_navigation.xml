@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/dashboard"
+        android:title="Dashboard"
+        android:icon="@drawable/ic_baseline_dashboard"/>
+
+
+    <item
+        android:id="@+id/appointment"
+        android:title="Appointment"
+        android:icon="@drawable/ic_appointment"/>
+
+
+    <item
+        android:id="@+id/clinic"
+        android:title="About"
+        android:icon="@drawable/ic_clinic" />
+
+
+</menu>

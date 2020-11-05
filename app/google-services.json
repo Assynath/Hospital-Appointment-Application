@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "455051174469",
+    "firebase_url": "https://hospitalappointment-fcf3e.firebaseio.com",
+    "project_id": "hospitalappointment-fcf3e",
+    "storage_bucket": "hospitalappointment-fcf3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455051174469:android:19357b0282bc223f75392c",
+        "android_client_info": {
+          "package_name": "com.example.hospie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455051174469-f1f00b4ji125d0lcqmdpksj4h0fhju5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hospie",
+            "certificate_hash": "a01b6cb3289db2ed21f3d4aa8d30d84b9f7c005b"
+          }
+        },
+        {
+          "client_id": "455051174469-1r5ri7sp4rcleb4o26von71j0dvaque7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl6L6VmqUgPNvJdTcO3VjPCtPU6k9PRmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455051174469-1r5ri7sp4rcleb4o26von71j0dvaque7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
